@@ -1,0 +1,22 @@
+{
+  "name": "form-analytics-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordaneLepartideveloppiste/form-analytics-back.git"
+  },
+  "author": "Jordane Lepart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JordaneLepartideveloppiste/form-analytics-back/issues"
+  },
+  "homepage": "https://github.com/JordaneLepartideveloppiste/form-analytics-back#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
